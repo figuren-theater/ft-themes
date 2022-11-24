@@ -1,0 +1,34 @@
+{
+	"name": "figuren-theater/ft-themes",
+	"description": "WordPress Themes used in the figuren.theater Multisite network.",
+    "homepage": "https://websites.fuer.figuren.theater",
+    "type": "metapackage",
+    "keywords": ["wordpress", "themes"],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "figuren.theater",
+            "email": "info@figuren.theater"
+        },
+        {
+            "name": "Carsten Bach",
+            "email": "mail@carsten-bach.de",
+            "homepage": "https://carsten-bach.de",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "info@figuren.theater",
+        "issues": "https://github.com/figuren-theater/ft-themes/issues",
+        "source": "https://github.com/figuren-theater/ft-themes"
+    },
+	"repositories": [
+		{
+			"type": "composer",
+			"url" : "https://wpackagist.org"
+		}
+	],
+	"require": {
+        "wpackagist-theme/oaknut":"1.0"
+	}
+}
