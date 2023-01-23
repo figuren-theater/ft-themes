@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3494452e12b284f1b935f5c78c06edfa",
+    "content-hash": "b1fcd250c28cdf57f99dcefdca61f4a8",
     "packages": [
         {
             "name": "composer/installers",
@@ -189,21 +189,39 @@
         },
         {
             "name": "wpackagist-theme/blockbase",
-            "version": "3.1.2",
+            "version": "3.1.5",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/blockbase/",
-                "reference": "3.1.2"
+                "reference": "3.1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.2.zip"
+                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.5.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/blockbase/"
+        },
+        {
+            "name": "wpackagist-theme/blockmag",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/blockmag/",
+                "reference": "1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/blockmag.1.0.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/blockmag/"
         },
         {
             "name": "wpackagist-theme/bright-mode",
@@ -242,6 +260,24 @@
             "homepage": "https://wordpress.org/themes/catch-fse/"
         },
         {
+            "name": "wpackagist-theme/course",
+            "version": "1.2.1",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/course/",
+                "reference": "1.2.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/course.1.2.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/course/"
+        },
+        {
             "name": "wpackagist-theme/davis-blocks",
             "version": "0.1.4",
             "source": {
@@ -258,6 +294,24 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/davis-blocks/"
+        },
+        {
+            "name": "wpackagist-theme/loudness",
+            "version": "1.0.5",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/loudness/",
+                "reference": "1.0.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/loudness.1.0.5.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/loudness/"
         },
         {
             "name": "wpackagist-theme/miniblock-ooak",
@@ -315,15 +369,15 @@
         },
         {
             "name": "wpackagist-theme/pendant",
-            "version": "1.0.11",
+            "version": "1.0.12",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/pendant/",
-                "reference": "1.0.11"
+                "reference": "1.0.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/pendant.1.0.11.zip"
+                "url": "https://downloads.wordpress.org/theme/pendant.1.0.12.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -366,6 +420,24 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/quadrat/"
+        },
+        {
+            "name": "wpackagist-theme/riverbank",
+            "version": "1.0.2",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/riverbank/",
+                "reference": "1.0.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.2.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/riverbank/"
         },
         {
             "name": "wpackagist-theme/sampler",
