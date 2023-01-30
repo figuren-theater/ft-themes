@@ -189,15 +189,15 @@
         },
         {
             "name": "wpackagist-theme/blockbase",
-            "version": "3.1.5",
+            "version": "3.1.6",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/blockbase/",
-                "reference": "3.1.5"
+                "reference": "3.1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.5.zip"
+                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
