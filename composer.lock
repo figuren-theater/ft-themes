@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b1fcd250c28cdf57f99dcefdca61f4a8",
+    "content-hash": "d25371827144cfc87e9a1c60777218ea",
     "packages": [
         {
             "name": "composer/installers",
@@ -279,15 +279,15 @@
         },
         {
             "name": "wpackagist-theme/davis-blocks",
-            "version": "0.1.4",
+            "version": "0.2",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/davis-blocks/",
-                "reference": "0.1.4"
+                "reference": "0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/davis-blocks.0.1.4.zip"
+                "url": "https://downloads.wordpress.org/theme/davis-blocks.0.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
