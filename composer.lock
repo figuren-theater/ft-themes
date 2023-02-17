@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b1fcd250c28cdf57f99dcefdca61f4a8",
+    "content-hash": "0cf556d2262e250209b7d5fd6103f1ad",
     "packages": [
         {
             "name": "composer/installers",
@@ -189,15 +189,15 @@
         },
         {
             "name": "wpackagist-theme/blockbase",
-            "version": "3.1.5",
+            "version": "3.1.6",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/blockbase/",
-                "reference": "3.1.5"
+                "reference": "3.1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.5.zip"
+                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -243,15 +243,15 @@
         },
         {
             "name": "wpackagist-theme/catch-fse",
-            "version": "1.6.0",
+            "version": "1.6.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/catch-fse/",
-                "reference": "1.6.0"
+                "reference": "1.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/catch-fse.1.6.0.zip"
+                "url": "https://downloads.wordpress.org/theme/catch-fse.1.6.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -279,15 +279,15 @@
         },
         {
             "name": "wpackagist-theme/davis-blocks",
-            "version": "0.1.4",
+            "version": "0.2",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/davis-blocks/",
-                "reference": "0.1.4"
+                "reference": "0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/davis-blocks.0.1.4.zip"
+                "url": "https://downloads.wordpress.org/theme/davis-blocks.0.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -423,15 +423,15 @@
         },
         {
             "name": "wpackagist-theme/riverbank",
-            "version": "1.0.2",
+            "version": "1.0.4",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/riverbank/",
-                "reference": "1.0.2"
+                "reference": "1.0.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.2.zip"
+                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.4.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
