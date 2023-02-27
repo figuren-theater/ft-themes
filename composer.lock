@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0cf556d2262e250209b7d5fd6103f1ad",
+    "content-hash": "566d4260ebb9e03ff6ab3e445ff1e81d",
     "packages": [
         {
             "name": "composer/installers",
@@ -477,15 +477,15 @@
         },
         {
             "name": "wpackagist-theme/tove",
-            "version": "0.7.1",
+            "version": "0.8.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/tove/",
-                "reference": "0.7.1"
+                "reference": "0.8.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/tove.0.7.1.zip"
+                "url": "https://downloads.wordpress.org/theme/tove.0.8.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
