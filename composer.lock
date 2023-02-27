@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0cf556d2262e250209b7d5fd6103f1ad",
+    "content-hash": "d5139b046a51dc835651263eaa7dae4d",
     "packages": [
         {
             "name": "composer/installers",
@@ -387,15 +387,15 @@
         },
         {
             "name": "wpackagist-theme/poe",
-            "version": "0.3",
+            "version": "0.4",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/poe/",
-                "reference": "0.3"
+                "reference": "0.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/poe.0.3.zip"
+                "url": "https://downloads.wordpress.org/theme/poe.0.4.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
