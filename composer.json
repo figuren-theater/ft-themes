@@ -23,12 +23,27 @@
         "source": "https://github.com/figuren-theater/ft-themes"
     },
 	"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/figuren-theater/twentytwentytwo-ft-core"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/figuren-theater/twentytwentytwo-ft__katharina-muschiol"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/figuren-theater/twentytwenty-ft-core"
+        },
 		{
 			"type": "composer",
 			"url" : "https://wpackagist.org"
 		}
 	],
 	"require": {
+		"figuren-theater/twentytwentytwo-ft-core": "*",
+		"figuren-theater/twentytwentytwo-ft__katharina-muschiol": "*",
+		"figuren-theater/twentytwenty-ft-core": "*",
 		"wpackagist-theme/archeo": "^1.0",
 		"wpackagist-theme/avant-garde": "^1.2",
 		"wpackagist-theme/blockbase": "^3.1",
