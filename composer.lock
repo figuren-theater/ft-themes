@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c877617680ae34796ec92ac325c1d82f",
+    "content-hash": "87b3366c111c3c925a1516e94f442d89",
     "packages": [
         {
             "name": "composer/installers",
@@ -150,50 +150,6 @@
                 }
             ],
             "time": "2022-08-20T06:45:11+00:00"
-        },
-        {
-            "name": "figuren-theater/twentytwenty-ft-core",
-            "version": "dev-main",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/figuren-theater/twentytwenty-ft-core",
-                "reference": "ee566d0dee5e7b3965ca9770fe81dfad4a58a42c"
-            },
-            "require": {
-                "composer/installers": "^2",
-                "wpackagist-theme/twentytwenty": "*"
-            },
-            "default-branch": true,
-            "type": "wordpress-theme",
-            "license": [
-                "GPL-3.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "figuren.theater",
-                    "email": "info@figuren.theater"
-                },
-                {
-                    "name": "Carsten Bach",
-                    "email": "mail@carsten-bach.de",
-                    "homepage": "https://carsten-bach.de",
-                    "role": "Developer"
-                }
-            ],
-            "description": "WordPress 'twentytwenty' Child Theme used in the figuren.theater Multisite network.",
-            "homepage": "https://websites.fuer.figuren.theater",
-            "keywords": [
-                "blockthemes",
-                "full-site-editing",
-                "theme",
-                "wordpress"
-            ],
-            "support": {
-                "email": "info@figuren.theater",
-                "issues": "https://github.com/figuren-theater/twentytwenty-ft-core/issues",
-                "source": "https://github.com/figuren-theater/twentytwenty-ft-core"
-            },
-            "time": "2023-07-19T03:36:48+00:00"
         },
         {
             "name": "figuren-theater/twentytwentytwo-ft-core",
@@ -1217,7 +1173,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "figuren-theater/twentytwenty-ft-core": 20,
         "figuren-theater/twentytwentytwo-ft-core": 20
     },
     "prefer-stable": false,

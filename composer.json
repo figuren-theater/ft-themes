@@ -28,7 +28,6 @@
 		"source": "https://github.com/figuren-theater/ft-themes"
 	},
 	"require": {
-		"figuren-theater/twentytwenty-ft-core": "dev-main",
 		"figuren-theater/twentytwentytwo-ft-core": "dev-main",
 		"wpackagist-theme/archeo": "^1.0",
 		"wpackagist-theme/avant-garde": "^1.2",
