@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "41741874a82ce01d0b5fa85c74df4b56",
+    "content-hash": "449f569781c721aad1f8d80b8eae0841",
     "packages": [
         {
             "name": "composer/installers",
@@ -392,6 +392,24 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/oaknut/"
+        },
+        {
+            "name": "wpackagist-theme/ollie",
+            "version": "1.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/ollie/",
+                "reference": "1.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/ollie.1.1.0.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/ollie/"
         },
         {
             "name": "wpackagist-theme/pacer",
