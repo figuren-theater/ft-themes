@@ -32,39 +32,35 @@
 		"wpackagist-theme/archeo": "^1.0",
 		"wpackagist-theme/avant-garde": "^1.3",
 		"wpackagist-theme/blockbase": "^3.1",
-		"wpackagist-theme/blockmag": "^1.0",
+		"wpackagist-theme/blockmag": "^1.1",
 		"wpackagist-theme/bright-mode": "^1.0",
 		"wpackagist-theme/catch-fse": "^1.7",
-		"wpackagist-theme/course": "^1",
-		"wpackagist-theme/davis-blocks": "^0.2",
-		"wpackagist-theme/loudness": "^1",
+		"wpackagist-theme/course": "^1.3",
+		"wpackagist-theme/davis-blocks": "^0.2.1",
+		"wpackagist-theme/loudness": "^1.0",
 		"wpackagist-theme/miniblock-ooak": "^1.0",
 		"wpackagist-theme/oaknut": "^1.0",
 		"wpackagist-theme/pacer": "^1.0",
 		"wpackagist-theme/pendant": "^1.0",
-		"wpackagist-theme/poe": "^0.4",
+		"wpackagist-theme/poe": "^0.4.1",
 		"wpackagist-theme/quadrat": "^1.1",
 		"wpackagist-theme/riverbank": "^1.0",
 		"wpackagist-theme/sampler": "^1.2",
 		"wpackagist-theme/skatepark": "^1.0",
-		"wpackagist-theme/tove": "^0.8",
-		"wpackagist-theme/twentytwentyone": "^1.8",
-		"wpackagist-theme/twentytwentythree": "^1.2",
-		"wpackagist-theme/twentytwentytwo": "^1.4",
+		"wpackagist-theme/tove": "^0.8.2",
+		"wpackagist-theme/twentytwentyone": "^2.1",
+		"wpackagist-theme/twentytwentythree": "^1.3",
+		"wpackagist-theme/twentytwentytwo": "^1.6",
 		"wpackagist-theme/wabi": "^1.1",
 		"wpackagist-theme/wei": "^1.0"
 	},
 	"require-dev": {
-		"ergebnis/composer-normalize": "^2.31"
+		"ergebnis/composer-normalize": "^2.42"
 	},
 	"repositories": [
 		{
 			"type": "git",
 			"url": "https://github.com/figuren-theater/twentytwentytwo-ft-core"
-		},
-		{
-			"type": "git",
-			"url": "https://github.com/figuren-theater/twentytwenty-ft-core"
 		},
 		{
 			"type": "composer",
