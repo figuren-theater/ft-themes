@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/figuren-theater/ft-themes/compare/1.2.1...HEAD)
+## [Unreleased](https://github.com/figuren-theater/ft-themes/compare/1.3.0...HEAD)
+
+## [1.3.0](https://github.com/figuren-theater/ft-themes/compare/1.2.1...1.3.0) - 2024-02-23
+
+### 🚀 Added
+
+- NEW wpackagist-theme/ollie (1.1.0) ([#25](https://github.com/figuren-theater/ft-themes/pull/25))
+- NEW wpackagist-theme/twentytwentyfour (1.0) ([#24](https://github.com/figuren-theater/ft-themes/pull/24))
+
+### Dependency Updates & Maintenance
+
+- Update all themes and dev deps ([#23](https://github.com/figuren-theater/ft-themes/pull/23))
+- Bump ergebnis/composer-normalize from 2.31.0 to 2.42.0 ([#22](https://github.com/figuren-theater/ft-themes/pull/22))
 
 ## [1.2.1](https://github.com/figuren-theater/ft-themes/compare/1.2.0...1.2.1) - 2023-08-22
 
