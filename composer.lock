@@ -323,15 +323,15 @@
         },
         {
             "name": "wpackagist-theme/davis-blocks",
-            "version": "0.2.1",
+            "version": "0.2.2",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/davis-blocks/",
-                "reference": "0.2.1"
+                "reference": "0.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/davis-blocks.0.2.1.zip"
+                "url": "https://downloads.wordpress.org/theme/davis-blocks.0.2.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1214,5 +1214,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
