@@ -485,15 +485,15 @@
         },
         {
             "name": "wpackagist-theme/riverbank",
-            "version": "1.0.6",
+            "version": "1.0.8",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/riverbank/",
-                "reference": "1.0.6"
+                "reference": "1.0.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.6.zip"
+                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.8.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1214,5 +1214,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
