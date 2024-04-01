@@ -251,15 +251,15 @@
         },
         {
             "name": "wpackagist-theme/blockmag",
-            "version": "1.1",
+            "version": "1.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/blockmag/",
-                "reference": "1.1"
+                "reference": "1.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/blockmag.1.1.zip"
+                "url": "https://downloads.wordpress.org/theme/blockmag.1.1.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1214,5 +1214,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
