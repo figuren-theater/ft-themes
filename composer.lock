@@ -468,15 +468,15 @@
         },
         {
             "name": "wpackagist-theme/quadrat",
-            "version": "1.1.55",
+            "version": "1.1.57",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/quadrat/",
-                "reference": "1.1.55"
+                "reference": "1.1.57"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/quadrat.1.1.55.zip"
+                "url": "https://downloads.wordpress.org/theme/quadrat.1.1.57.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
