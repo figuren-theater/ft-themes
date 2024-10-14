@@ -306,15 +306,15 @@
         },
         {
             "name": "wpackagist-theme/course",
-            "version": "1.3.5",
+            "version": "1.3.9",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/course/",
-                "reference": "1.3.5"
+                "reference": "1.3.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/course.1.3.5.zip"
+                "url": "https://downloads.wordpress.org/theme/course.1.3.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
