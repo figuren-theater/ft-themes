@@ -288,15 +288,15 @@
         },
         {
             "name": "wpackagist-theme/catch-fse",
-            "version": "1.7.2",
+            "version": "1.7.3",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/catch-fse/",
-                "reference": "1.7.2"
+                "reference": "1.7.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/catch-fse.1.7.2.zip"
+                "url": "https://downloads.wordpress.org/theme/catch-fse.1.7.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
