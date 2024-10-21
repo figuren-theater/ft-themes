@@ -234,15 +234,15 @@
         },
         {
             "name": "wpackagist-theme/blockbase",
-            "version": "3.1.16",
+            "version": "3.1.20",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/blockbase/",
-                "reference": "3.1.16"
+                "reference": "3.1.20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.16.zip"
+                "url": "https://downloads.wordpress.org/theme/blockbase.3.1.20.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
