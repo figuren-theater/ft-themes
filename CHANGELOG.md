@@ -2,7 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/figuren-theater/ft-themes/compare/1.3.0...HEAD)
+## [Unreleased](https://github.com/figuren-theater/ft-themes/compare/1.4.0...HEAD)
+
+## [1.4.0](https://github.com/figuren-theater/ft-themes/compare/1.3.0...1.4.0) - 2024-10-25
+
+### Dependency Updates & Maintenance
+
+- Bump wpackagist-theme/davis-blocks from 0.2.1 to 0.2.3 ([#42](https://github.com/figuren-theater/ft-themes/pull/42))
+- Bump wpackagist-theme/blockmag from 1.1 to 1.1.2 ([#37](https://github.com/figuren-theater/ft-themes/pull/37))
+- Bump wpackagist-theme/skatepark from 1.0.52 to 1.0.53 ([#39](https://github.com/figuren-theater/ft-themes/pull/39))
+- Bump wpackagist-theme/catch-fse from 1.7.2 to 1.7.3 ([#44](https://github.com/figuren-theater/ft-themes/pull/44))
+- Bump wpackagist-theme/oaknut from 1.0.1 to 1.0.2 ([#46](https://github.com/figuren-theater/ft-themes/pull/46))
+- Bump wpackagist-theme/course from 1.3.5 to 1.3.9 ([#48](https://github.com/figuren-theater/ft-themes/pull/48))
+- Bump wpackagist-theme/tove from 0.8.2 to 0.8.3 ([#49](https://github.com/figuren-theater/ft-themes/pull/49))
+- Bump wpackagist-theme/riverbank from 1.0.6 to 1.0.11 ([#50](https://github.com/figuren-theater/ft-themes/pull/50))
+- Bump wpackagist-theme/blockbase from 3.1.16 to 3.1.21 ([#52](https://github.com/figuren-theater/ft-themes/pull/52))
+- Bump wpackagist-theme/twentytwentyone from 2.1 to 2.3 ([#47](https://github.com/figuren-theater/ft-themes/pull/47))
+- Bump wpackagist-theme/quadrat from 1.1.55 to 1.1.57 ([#43](https://github.com/figuren-theater/ft-themes/pull/43))
+- Bump wpackagist-theme/archeo from 1.0.20 to 1.0.21 ([#34](https://github.com/figuren-theater/ft-themes/pull/34))
+- Bump wpackagist-theme/twentytwentythree from 1.3 to 1.4 ([#35](https://github.com/figuren-theater/ft-themes/pull/35))
 
 ## [1.3.0](https://github.com/figuren-theater/ft-themes/compare/1.2.1...1.3.0) - 2024-02-23
 
