@@ -540,15 +540,15 @@
         },
         {
             "name": "wpackagist-theme/tove",
-            "version": "0.8.2",
+            "version": "0.8.3",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/tove/",
-                "reference": "0.8.2"
+                "reference": "0.8.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/tove.0.8.2.zip"
+                "url": "https://downloads.wordpress.org/theme/tove.0.8.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
