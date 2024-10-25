@@ -522,15 +522,15 @@
         },
         {
             "name": "wpackagist-theme/skatepark",
-            "version": "1.0.52",
+            "version": "1.0.53",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/skatepark/",
-                "reference": "1.0.52"
+                "reference": "1.0.53"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/skatepark.1.0.52.zip"
+                "url": "https://downloads.wordpress.org/theme/skatepark.1.0.53.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
