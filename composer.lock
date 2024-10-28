@@ -432,15 +432,15 @@
         },
         {
             "name": "wpackagist-theme/pendant",
-            "version": "1.0.15",
+            "version": "1.0.18",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/pendant/",
-                "reference": "1.0.15"
+                "reference": "1.0.18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/pendant.1.0.15.zip"
+                "url": "https://downloads.wordpress.org/theme/pendant.1.0.18.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
