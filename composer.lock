@@ -486,15 +486,15 @@
         },
         {
             "name": "wpackagist-theme/riverbank",
-            "version": "1.0.11",
+            "version": "1.0.12",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/riverbank/",
-                "reference": "1.0.11"
+                "reference": "1.0.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.11.zip"
+                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.12.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
