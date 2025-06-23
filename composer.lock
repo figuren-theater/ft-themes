@@ -396,15 +396,15 @@
         },
         {
             "name": "wpackagist-theme/ollie",
-            "version": "1.4.2",
+            "version": "1.4.9",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/ollie/",
-                "reference": "1.4.2"
+                "reference": "1.4.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/ollie.1.4.2.zip"
+                "url": "https://downloads.wordpress.org/theme/ollie.1.4.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
