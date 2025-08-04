@@ -396,15 +396,15 @@
         },
         {
             "name": "wpackagist-theme/ollie",
-            "version": "1.4.9",
+            "version": "1.5.0",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/ollie/",
-                "reference": "1.4.9"
+                "reference": "1.5.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/ollie.1.4.9.zip"
+                "url": "https://downloads.wordpress.org/theme/ollie.1.5.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1325,7 +1325,7 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }
