@@ -2,7 +2,35 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/figuren-theater/ft-themes/compare/1.4.0...HEAD)
+## [Unreleased](https://github.com/figuren-theater/ft-themes/compare/1.5.0...HEAD)
+
+## [1.5.0](https://github.com/figuren-theater/ft-themes/compare/1.4.0...1.5.0) - 2025-12-11
+
+### Dependency Updates & Maintenance
+
+- Bump wpackagist-theme/ollie from 1.4.9 to 1.5.3 ([#93](https://github.com/figuren-theater/ft-themes/pull/93))
+- Bump wpackagist-theme/twentytwentyone from 2.4 to 2.7 ([#94](https://github.com/figuren-theater/ft-themes/pull/94))
+- Bump wpackagist-theme/twentytwentyfour from 1.3 to 1.4 ([#95](https://github.com/figuren-theater/ft-themes/pull/95))
+- Bump wpackagist-theme/ollie from 1.4.2 to 1.4.9 ([#85](https://github.com/figuren-theater/ft-themes/pull/85))
+- Bump wpackagist-theme/blockmag from 1.1.2 to 1.2 ([#83](https://github.com/figuren-theater/ft-themes/pull/83))
+- Bump wpackagist-theme/catch-fse from 1.7.3 to 1.8 ([#82](https://github.com/figuren-theater/ft-themes/pull/82))
+- Bump wpackagist-theme/riverbank from 1.0.12 to 1.0.14 ([#84](https://github.com/figuren-theater/ft-themes/pull/84))
+- Bump ergebnis/composer-normalize from 2.44.0 to 2.45.0 ([#67](https://github.com/figuren-theater/ft-themes/pull/67))
+- Bump wpackagist-theme/ollie from 1.3.0 to 1.4.2 ([#73](https://github.com/figuren-theater/ft-themes/pull/73))
+- Bump wpackagist-theme/ollie from 1.2.4 to 1.3.0 ([#68](https://github.com/figuren-theater/ft-themes/pull/68))
+- Bump wpackagist-theme/ollie from 1.2.2 to 1.2.4 ([#65](https://github.com/figuren-theater/ft-themes/pull/65))
+- Bump wpackagist-theme/riverbank from 1.0.11 to 1.0.12 ([#61](https://github.com/figuren-theater/ft-themes/pull/61))
+- Bump wpackagist-theme/twentytwentyone from 2.3 to 2.4 ([#63](https://github.com/figuren-theater/ft-themes/pull/63))
+- Bump wpackagist-theme/twentytwentythree from 1.5 to 1.6 ([#64](https://github.com/figuren-theater/ft-themes/pull/64))
+- Bump wpackagist-theme/ollie from 1.2.1 to 1.2.2 ([#60](https://github.com/figuren-theater/ft-themes/pull/60))
+- Bump wpackagist-theme/twentytwentyfour from 1.2 to 1.3 ([#62](https://github.com/figuren-theater/ft-themes/pull/62))
+- Bump wpackagist-theme/loudness from 1.0.5 to 1.0.10 ([#58](https://github.com/figuren-theater/ft-themes/pull/58))
+- Bump wpackagist-theme/twentytwentythree from 1.4 to 1.5 ([#55](https://github.com/figuren-theater/ft-themes/pull/55))
+- Bump wpackagist-theme/pendant from 1.0.15 to 1.0.18 ([#56](https://github.com/figuren-theater/ft-themes/pull/56))
+- Bump wpackagist-theme/poe from 0.4.1 to 0.4.2 ([#54](https://github.com/figuren-theater/ft-themes/pull/54))
+- Bump ergebnis/composer-normalize from 2.42.0 to 2.44.0 ([#53](https://github.com/figuren-theater/ft-themes/pull/53))
+- Bump wpackagist-theme/twentytwentyfour from 1.0 to 1.2 ([#57](https://github.com/figuren-theater/ft-themes/pull/57))
+- Bump wpackagist-theme/ollie from 1.1.0 to 1.2.1 ([#59](https://github.com/figuren-theater/ft-themes/pull/59))
 
 ## [1.4.0](https://github.com/figuren-theater/ft-themes/compare/1.3.0...1.4.0) - 2024-10-25
 
