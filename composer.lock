@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "449f569781c721aad1f8d80b8eae0841",
+    "content-hash": "1e23fcc17d5046929d02be7cc77a85e7",
     "packages": [
         {
             "name": "composer/installers",
@@ -252,15 +252,15 @@
         },
         {
             "name": "wpackagist-theme/blockmag",
-            "version": "1.2",
+            "version": "2.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/blockmag/",
-                "reference": "1.2"
+                "reference": "2.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/blockmag.1.2.zip"
+                "url": "https://downloads.wordpress.org/theme/blockmag.2.0.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1343,5 +1343,5 @@
     "prefer-lowest": false,
     "platform": {},
     "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.9.0"
 }
