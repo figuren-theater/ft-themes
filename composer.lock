@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "449f569781c721aad1f8d80b8eae0841",
+    "content-hash": "e0eafec13981c7f8fd6308a57675b6b9",
     "packages": [
         {
             "name": "composer/installers",
@@ -288,15 +288,15 @@
         },
         {
             "name": "wpackagist-theme/catch-fse",
-            "version": "1.8",
+            "version": "2.0",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/catch-fse/",
-                "reference": "1.8"
+                "reference": "2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/catch-fse.1.8.zip"
+                "url": "https://downloads.wordpress.org/theme/catch-fse.2.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1343,5 +1343,5 @@
     "prefer-lowest": false,
     "platform": {},
     "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.9.0"
 }
